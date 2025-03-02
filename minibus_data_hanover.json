@@ -28,11 +28,12 @@
 	},
 	{
 		"number": 3,
-		"route": "320S",
+		"route": "320SZ",
 		"front": 1,
 		"frontid1": "rbxassetid://103798994659683",
 		"controllerid1": "rbxassetid://103798994659683",
-		"side": 1,
-		"sideid1": "rbxassetid://113527073160412"
+		"side": 2,
+		"sideid1": "rbxassetid://113527073160412",
+		"sideid2": "rbxassetid://136498347697355"
 	}
 ]
