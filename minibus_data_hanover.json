@@ -53,5 +53,16 @@
 		"controllerid1": "rbxassetid://77496244118617",
 		"side": 1,
 		"sideid1": "rbxassetid://98570119376066"
+	},
+	{
+		"number": 6,
+		"route": "LSFM",
+		"front": 2,
+		"frontid1": "rbxassetid://101487640638045",
+		"frontid2": "rbxassetid://85810040185899",
+		"controllerid1": "rbxassetid://101487640638045",
+		"controllerid2": "rbxassetid://85810040185899",
+		"side": 1,
+		"sideid1": "rbxassetid://130761394522637"
 	}
 ]
